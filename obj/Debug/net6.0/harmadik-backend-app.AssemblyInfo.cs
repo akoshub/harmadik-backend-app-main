@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("harmadik-backend-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdebd1d2566b8773b456c20c86dd827a88a7b488")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+468637d3794403d63fa92f1aff4b9dc0032ad1ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("harmadik-backend-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("harmadik-backend-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
